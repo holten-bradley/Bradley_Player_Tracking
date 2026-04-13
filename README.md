@@ -23,7 +23,7 @@ git clone https://github.com/holten-bradley/Bradley_Player_Tracking.git
 
 Make sure to navigate to the project directory with the cd command. (ask chatgpt for help!)
 
-$ cd Bradley_Player_Tracking/
+$ cd bradleyPlayerTracking/
 
 
 **RUN THE APP**
